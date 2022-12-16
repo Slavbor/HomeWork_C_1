@@ -22,4 +22,3 @@ else if (c == a && a == b)
 {
     WriteLine("Числа равны.");
 }
-
